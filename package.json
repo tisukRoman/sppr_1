@@ -3,7 +3,7 @@
   "type": "module",
   "main": "main.js",
   "scripts": {
-    "start": "node main.js"
+    "start": "node lab2.js"
   },
   "author": "tisukRoman"
 }
